@@ -1,5 +1,5 @@
 # CS478_AndroidApps
-Android apps developed during the course CS478 "Development of Mobile Apps" at UIC
+Android apps developed during the course CS478 "Software Development for Mobile Platforms" at UIC
 
 - Project1: Activity
 - Project2: RecyclerView
