@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1_Davide_Porello</string>
+    <string name="welcome">Welcome!</string>
+    <string name="phone">Phone number</string>
+    <string name="dialer">Dialer</string>
+    <string name="enter">Enter a phone number</string>
+</resources>

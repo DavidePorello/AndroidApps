@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App1_Project3_Davide_Porello</string>
+    <string name="permission">App2 will respond to intents only if the sender owns this permission</string>
+</resources>

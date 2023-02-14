@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">App2_Project3_Davide_Porello</string>
+    <string-array name="Attractions">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum of Science and Indutry</item>
+        <item>Art Institute</item>
+        <item>TILT</item>
+    </string-array>
+    <string-array name="Hotels">
+        <item>Sable at Navy Pier Chicago</item>
+        <item>Hotel EMC2</item>
+        <item>St. Jane</item>
+        <item>W Chicago - City Center</item>
+        <item>Virgin Hotels Chicago</item>
+    </string-array>
+    <string-array name="AttractionsWebsites">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://360chicago.com/tilt</item>
+    </string-array>
+    <string-array name="HotelsWebsites">
+        <item>https://www.hilton.com/en/hotels/chipiqq-sable-at-navy-pier-chicago/</item>
+        <item>https://hotelemc2.com/</item>
+        <item>https://stjanehotel.com/</item>
+        <item>https://www.marriott.com/default.mi</item>
+        <item>https://virginhotels.com/chicago/</item>
+    </string-array>
+</resources>
